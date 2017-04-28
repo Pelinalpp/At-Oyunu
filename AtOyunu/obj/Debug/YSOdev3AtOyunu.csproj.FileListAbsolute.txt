@@ -1,0 +1,9 @@
+C:\Users\AlpPelin\Desktop\VS\YSOdev3AtOyunu\YSOdev3AtOyunu\bin\Debug\YSOdev3AtOyunu.exe.config
+C:\Users\AlpPelin\Desktop\VS\YSOdev3AtOyunu\YSOdev3AtOyunu\bin\Debug\YSOdev3AtOyunu.exe
+C:\Users\AlpPelin\Desktop\VS\YSOdev3AtOyunu\YSOdev3AtOyunu\bin\Debug\YSOdev3AtOyunu.pdb
+C:\Users\AlpPelin\Desktop\VS\YSOdev3AtOyunu\YSOdev3AtOyunu\obj\Debug\YSOdev3AtOyunu.csprojResolveAssemblyReference.cache
+C:\Users\AlpPelin\Desktop\VS\YSOdev3AtOyunu\YSOdev3AtOyunu\obj\Debug\YSOdev3AtOyunu.frmAtGezdir.resources
+C:\Users\AlpPelin\Desktop\VS\YSOdev3AtOyunu\YSOdev3AtOyunu\obj\Debug\YSOdev3AtOyunu.Properties.Resources.resources
+C:\Users\AlpPelin\Desktop\VS\YSOdev3AtOyunu\YSOdev3AtOyunu\obj\Debug\YSOdev3AtOyunu.csproj.GenerateResource.Cache
+C:\Users\AlpPelin\Desktop\VS\YSOdev3AtOyunu\YSOdev3AtOyunu\obj\Debug\YSOdev3AtOyunu.exe
+C:\Users\AlpPelin\Desktop\VS\YSOdev3AtOyunu\YSOdev3AtOyunu\obj\Debug\YSOdev3AtOyunu.pdb
